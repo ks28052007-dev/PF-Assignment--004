@@ -71,6 +71,6 @@ list of 30 Programs:
 
  How are Run Code??
 
- g++ main.cpp -o main.exe
+     g++ main.cpp -o main.exe
 
     ./main.exe
