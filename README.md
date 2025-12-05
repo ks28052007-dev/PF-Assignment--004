@@ -70,3 +70,7 @@ list of 30 Programs:
  Program 30: Check Whether a Number is Odd or Even
 
  How are Run Code??
+
+ g++ main.cpp -o main.exe
+
+    ./main.exe
